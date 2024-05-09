@@ -133,6 +133,7 @@ const FormContainer = styled.form`
   justify-content: center;
   padding: 15px;
   border: 1px solid lightgray;
+  border-radius: 0 15px 15px 0;
 
   h3 {
     font-size: 30px;
