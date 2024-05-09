@@ -102,6 +102,7 @@ const Main = styled.div`
   display: flex;
   flex-direction: row-reverse;
   border-radius: 15px;
+  border: 1px solid lightgray;
 `;
 
 const Loginimage = styled.div`

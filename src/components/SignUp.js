@@ -132,6 +132,7 @@ const FormContainer = styled.form`
   align-items: center;
   justify-content: center;
   padding: 15px;
+  border: 1px solid lightgray;
 
   h3 {
     font-size: 30px;
